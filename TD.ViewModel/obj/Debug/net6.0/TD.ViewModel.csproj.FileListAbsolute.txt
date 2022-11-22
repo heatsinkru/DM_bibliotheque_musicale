@@ -1,0 +1,24 @@
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.deps.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.csproj.AssemblyReference.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.AssemblyInfoInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.AssemblyInfo.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\refint\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD.ViewModel\obj\Debug\net6.0\ref\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.deps.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\bin\Debug\net6.0\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.csproj.AssemblyReference.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.AssemblyInfoInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.AssemblyInfo.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\refint\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD.ViewModel\obj\Debug\net6.0\ref\TD.ViewModel.dll

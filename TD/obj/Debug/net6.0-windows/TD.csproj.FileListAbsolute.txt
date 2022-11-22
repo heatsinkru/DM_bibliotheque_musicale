@@ -1,0 +1,48 @@
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.exe
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.deps.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.runtimeconfig.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\bin\Debug\net6.0-windows\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.csproj.AssemblyReference.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD_MarkupCompile.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD_MarkupCompile.lref
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.g.resources
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.AssemblyInfoInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.AssemblyInfo.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.csproj.CoreCompileInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.csproj.CopyComplete
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\refint\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\TD.genruntimeconfig.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\TD04 - Explorateur de fichiers (solution 2)\03 - Sélection et barre d'état\TD\obj\Debug\net6.0-windows\ref\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.csproj.AssemblyReference.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD_MarkupCompile.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD_MarkupCompile.lref
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\refint\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.exe
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.deps.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.runtimeconfig.json
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.ViewModel.dll
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\bin\Debug\net6.0-windows\TD.ViewModel.pdb
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.g.resources
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.AssemblyInfoInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.AssemblyInfo.cs
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.csproj.CoreCompileInputs.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.csproj.CopyComplete
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\TD.genruntimeconfig.cache
+C:\Users\scdit\Documents\Polytech\4A\C_sharp\DM_bibliotheque_musicale\TD\obj\Debug\net6.0-windows\ref\TD.dll

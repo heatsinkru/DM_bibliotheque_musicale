@@ -1,0 +1,7 @@
+.vs/*
+.vs/
+
+DM/bin/*
+DM/obj/*
+DM/bin/
+DM/obj/

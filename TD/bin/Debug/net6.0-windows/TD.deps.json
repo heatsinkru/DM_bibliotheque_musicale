@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TD/1.0.0": {
+        "dependencies": {
+          "TD.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "TD.dll": {}
+        }
+      },
+      "TD.ViewModel/1.0.0": {
+        "runtime": {
+          "TD.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TD.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
