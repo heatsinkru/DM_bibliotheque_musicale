@@ -24,5 +24,22 @@ namespace TD
         {
             InitializeComponent();
         }
+
+        private void ListBoxAlbums_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+        private void ListBoxAlbums_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+        private void ListBoxPistes_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+        private void ListBoxPistes_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

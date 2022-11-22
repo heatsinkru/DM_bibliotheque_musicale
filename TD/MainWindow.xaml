@@ -20,19 +20,18 @@
                 <ColumnDefinition Width="2*"/>
             </Grid.ColumnDefinitions>
 
-            <ListBox Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Name="listbox_albums" Margin="20, 20, 20, 10" Padding="5, 5, 5, 5" Background="#3d3d3d" Foreground="White" BorderBrush="Transparent">
-                <ListBoxItem FontSize="13" Margin="0, 0, 0, 15" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="White">
-                    <Bold>
-                        Compositeur 1
-                        <LineBreak></LineBreak>
-                        Album 1
-                    </Bold>
-                    <ListBoxItem.Resources>
-                        <Style TargetType="Border">
-                            <Setter Property="CornerRadius" Value="6"/>
-                        </Style>
-                    </ListBoxItem.Resources>
-                </ListBoxItem>
+            <ListBox SelectionChanged="ListBoxAlbums_SelectionChanged" MouseDoubleClick="ListBoxAlbums_MouseDoubleClick" ItemsSource="{Binding Albums}" SelectionMode="Extended" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" x:Name="listbox_albums" Margin="20, 20, 20, 10" Padding="5, 5, 5, 5" Background="#3d3d3d" Foreground="White" BorderBrush="Transparent">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <ListBoxItem Content="{Binding Album}" FontSize="13" Margin="0, 0, 0, 15" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="White">
+                            <ListBoxItem.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="6"/>
+                                </Style>
+                            </ListBoxItem.Resources>
+                        </ListBoxItem>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
                 <ListBoxItem FontSize="13" Margin="0, 0, 0, 15" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="White">
                     <Bold>
                         Compositeur 2
@@ -94,8 +93,7 @@
                   Album :
                 </TextBlock>
 
-                <TextBox IsEnabled="False" Name="textblock_compositeur" Background="#4b4b4b" Margin="5, 0, 20, 0" Padding="5, 5, 5, 5" Foreground="White" FontSize="13" Grid.Column="1" Grid.Row="0" TextWrapping="Wrap" VerticalAlignment="Center" TextAlignment="Center">
-                    Aucun compositeur sélectionné
+                <TextBox Text="{Binding SelectionCompositeur}" IsEnabled="False" Name="textblock_compositeur" Background="#4b4b4b" Margin="5, 0, 20, 0" Padding="5, 5, 5, 5" Foreground="White" FontSize="13" Grid.Column="1" Grid.Row="0" TextWrapping="Wrap" VerticalAlignment="Center" TextAlignment="Center">
                     <TextBox.Resources>
                         <Style TargetType="Border">
                             <Setter Property="CornerRadius" Value="6"/>
@@ -104,8 +102,7 @@
                 </TextBox>
 
 
-                <TextBox IsEnabled="False" Name="textblock_album" Grid.Column="1" Grid.Row="1" Background="#4b4b4b" Margin="5, 0, 20, 0" Padding="5, 5, 5, 5" Foreground="White" FontSize="13" TextWrapping="Wrap" VerticalAlignment="Center" TextAlignment="Center">
-                    Aucun album sélectionné
+                <TextBox Text="{Binding SelectionAlbum}" IsEnabled="False" Name="textblock_album" Grid.Column="1" Grid.Row="1" Background="#4b4b4b" Margin="5, 0, 20, 0" Padding="5, 5, 5, 5" Foreground="White" FontSize="13" TextWrapping="Wrap" VerticalAlignment="Center" TextAlignment="Center">
                     <TextBox.Resources>
                         <Style TargetType="Border">
                             <Setter Property="CornerRadius" Value="6"/>
@@ -128,7 +125,19 @@
                     Pistes :
                 </TextBlock>
 
-                <ListBox Grid.Row="1" Name="listbox_pistes" Margin="20, 10, 20, 10" Padding="5, 5, 5, 5" Background="#3d3d3d" Foreground="White" BorderBrush="White">
+                <ListBox SelectionChanged="ListBoxPistes_SelectionChanged" MouseDoubleClick="ListBoxPistes_MouseDoubleClick" ItemsSource="{Binding Pistes}" SelectionMode="Extended" Grid.Row="1" x:Name="listbox_pistes" Margin="20, 10, 20, 10" Padding="5, 5, 5, 5" Background="#3d3d3d" Foreground="White" BorderBrush="White">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <ListBoxItem Content="{Binding Piste}" FontSize="13" Margin="5, 5, 5, 5" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="Transparent">
+                                <ListBoxItem.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="6"/>
+                                    </Style>
+                                </ListBoxItem.Resources>
+                            </ListBoxItem>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                    
                     <ListBoxItem FontSize="13" Margin="5, 5, 5, 5" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="Transparent">
                         <Bold>Piste 01 - ...</Bold>
                         <ListBoxItem.Resources>
@@ -137,19 +146,6 @@
                             </Style>
                         </ListBoxItem.Resources>
                     </ListBoxItem>
-                    <ListBoxItem FontSize="13" Margin="5, 5, 5, 5" Padding="8, 8, 8, 8" Background="#4b4b4b" BorderBrush="Transparent">
-                        <Bold>Piste 02 - ...</Bold>
-                        <ListBoxItem.Resources>
-                            <Style TargetType="Border">
-                                <Setter Property="CornerRadius" Value="6"/>
-                            </Style>
-                        </ListBoxItem.Resources>
-                    </ListBoxItem>
-                    <ListBox.Resources>
-                        <Style TargetType="Border">
-                            <Setter Property="CornerRadius" Value="6"/>
-                        </Style>
-                    </ListBox.Resources>
                 </ListBox>
 
                 <Grid Grid.Row="2">

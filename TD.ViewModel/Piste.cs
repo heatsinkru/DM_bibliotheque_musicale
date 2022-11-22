@@ -16,7 +16,6 @@ namespace TD
             _titre = titre;
 
         }
-
         public string Id
         {
             get { return _id; }
@@ -27,7 +26,5 @@ namespace TD
             get { return _titre; }
             set { _titre = value; }
         }
-
-
     }
 }
